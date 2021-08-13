@@ -19,6 +19,6 @@ In this Project I am saving Data in JPDB from HTML form
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/3kXYm6J)
+![App Screenshot](<a href="https://ibb.co/3kXYm6J"><img src="https://i.ibb.co/252Y3Vb/jsonpowerdb.png" alt="jsonpowerdb" border="0"></a>)
 
   
